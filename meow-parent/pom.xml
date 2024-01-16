@@ -18,20 +18,10 @@
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <!-- pom version -->
-        <spring.boot.starter.version>3.2.0</spring.boot.starter.version>
     </properties>
 
-    <dependencyManagement>
-        <dependencies>
-            <dependency>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-starter-parent</artifactId>
-                <version>${spring.boot.starter.version}</version>
-                <type>pom</type>
-            </dependency>
+    <dependencies>
 
-        </dependencies>
-    </dependencyManagement>
+    </dependencies>
 
 </project>
