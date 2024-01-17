@@ -1,4 +1,4 @@
-package com.satori.meow.security.controller;
+package com.satori.meow.security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
